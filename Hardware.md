@@ -1,11 +1,15 @@
 # Raspeberry
 ## Card
- 16Go
+Raspberry Pi 5 16Go  
+https://www.kubii.com/fr/cartes-nano-ordinateurs/4106-2337-raspberry-pi-5-3272496315938.html#/ram-16_gb
 ## Coling
-
+Ventilateur dissipateur pour Raspberry Pi 5  
+https://www.kubii.com/fr/ventilateurs-dissipateurs-thermiques/4109-ventilateur-dissipateur-pour-raspberry-pi-5-5056561803357.html
 
 ## Base card
 - ### Card
+Base NVMe pour Raspberry Pi 5  
+https://www.kubii.com/fr/support-de-stockage/4272-base-nvme-pour-raspberry-pi-5-0769894024881.html
 - ### SSD
 
 ## UPS
@@ -38,11 +42,26 @@ https://www.sparkfun.com/sparkx-power-meter-acs37800-qwiic.html
 
 # Box
 
+# Sound
+Mini Haut-Parleurs USB  
+https://www.kubii.com/fr/haut-parleurs-microphones/1850-mini-haut-parleurs-usb-kubii-6945379550159.html
+
 # GPS
 ## Receipter
-Navilock Récepteur Multi GNSS USB 2.0 NL-8002U u-blox 8 1,5 m  
-https://www.navilock.de/produkt/62523/merkmale.html?setLanguage=fr
 
+# MANDATORY BUY
+| Hardware      | Quantité        | Price |
+| :-------------|:---------------:| -----:|
+| Raspberry Pi 5 16Go    | 1              | 147€ |
+| Ventilateur dissipateur    | 1              | 6€ |
+
+
+# OPTIONNAL BUY
+| Hardware      | Quantité        | Price |
+| :-------------|:---------------:| -----:|
+| Base NVMe pour Raspberry Pi 5       | 1             | 20€ |
+| Mini Haut-Parleurs USB       | 1             | 9€ |
+  
 
 
 
