@@ -5,22 +5,27 @@ https://www.kubii.com/fr/cartes-nano-ordinateurs/4106-2337-raspberry-pi-5-327249
 ## Coling
 Ventilateur dissipateur pour Raspberry Pi 5  
 https://www.kubii.com/fr/ventilateurs-dissipateurs-thermiques/4109-ventilateur-dissipateur-pour-raspberry-pi-5-5056561803357.html
+4th Floor Stacking Kit   
+https://shop.openmarine.net/home/26-4th-floor-stacking-kit-for-macarthur-hat.html
 
 ## Base card
 - ### Card
 Base NVMe pour Raspberry Pi 5  
 https://www.kubii.com/fr/support-de-stockage/4272-base-nvme-pour-raspberry-pi-5-0769894024881.html
 - ### SSD
+SSD 1 To  
+https://www.amazon.fr/dp/B09QV692XY/?coliid=I1YOYFHW34TRX4&colid=2E7TLL44OX6SG&ref_=list_c_wl_lv_ov_lig_dp_it&th=1
 
 ## UPS
 - ### Card
 - ### Battery
 
+
 ## MacArthur HAT
 https://shop.openmarine.net/home/23-macarthur-hat.html
 
 - ### dAISy AIS Receiver
-https://shop.wegmatt.com/collections/frontpage/products/daisy-ais-receiver  
+https://shop.wegmatt.com/collections/frontpage/products/daisy-hat-ais-receiver
 https://shop.openmarine.net/home/14-daisy-hat-ais-receiver.html
 
 - ### Compass
@@ -47,21 +52,26 @@ Mini Haut-Parleurs USB
 https://www.kubii.com/fr/haut-parleurs-microphones/1850-mini-haut-parleurs-usb-kubii-6945379550159.html
 
 # GPS
-## Receipter
+VK-162 G-Mouse USB Dongle GPS  
+https://www.amazon.fr/gp/product/B078Y52FGQ?smid=A1WW3OSQ1ZSXVY&psc=1
 
 # MANDATORY BUY
 | Hardware      | Quantité        | Price |
 | :-------------|:---------------:| -----:|
 | Raspberry Pi 5 16Go    | 1              | 147€ |
 | Ventilateur dissipateur    | 1              | 6€ |
-
+| VK-162 G-Mouse USB Dongle GPS     | 1              | 23€ |
+| 4th Floor Stacking Kit    | 1              | 3€ |
+| dAISy AIS Receiver     | 1              | 65€ |
 
 # OPTIONNAL BUY
 | Hardware      | Quantité        | Price |
 | :-------------|:---------------:| -----:|
 | Base NVMe pour Raspberry Pi 5       | 1             | 20€ |
+| SSD 1 To        | 1             | 70€ |
 | Mini Haut-Parleurs USB       | 1             | 9€ |
-  
+| ICM-20948 IMU module      | 1             | 10€ |
+| MacArthur HAT     | 1              | 62€ |
 
 
 
