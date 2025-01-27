@@ -77,7 +77,7 @@ https://www.amazon.fr/gp/product/B078Y52FGQ?smid=A1WW3OSQ1ZSXVY&psc=1
 | dAISy AIS Receiver     | 1              | 65€ |
 | Adaptateur Mâle SMA vers Coaxial PL259     | 1              | 10€ |
 | Antenne Radio Mobile     | 1              | 35€ |
-
+| Total     |               | 289€ |
 
 # OPTIONNAL BUY
 | Hardware      | Quantité        | Price |
@@ -85,8 +85,9 @@ https://www.amazon.fr/gp/product/B078Y52FGQ?smid=A1WW3OSQ1ZSXVY&psc=1
 | Base NVMe pour Raspberry Pi 5       | 1             | 20€ |
 | SSD 1 To        | 1             | 70€ |
 | Mini Haut-Parleurs USB       | 1             | 9€ |
-| ICM-20948 IMU module      | 1             | 10€ |
+| 4th Floor Stacking Kit    | 1              | 3€ |
 | MacArthur HAT     | 1              | 62€ |
+| ICM-20948 IMU module      | 1             | 10€ |
 
 
 
