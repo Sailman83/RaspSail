@@ -52,10 +52,10 @@ https://www.sparkfun.com/sparkfun-9dof-imu-breakout-ism330dhcx-mmc5983ma-qwiic.h
 Power Meter  
 https://www.sparkfun.com/sparkx-power-meter-acs37800-qwiic.html
 
-GPS Breakout  
-https://www.sparkfun.com/sparkfun-gps-breakout-neo-m9n-sma-qwiic.html
+GNSS Receiver Breakout
+https://www.sparkfun.com/sparkfun-gnss-receiver-breakout-max-m10s-qwiic.html 
 GPS/GNSS Antenna  
-https://www.sparkfun.com/gps-gnss-magnetic-mount-antenna-3m-sma.html
+https://www.sparkfun.com/gps-gnss-magnetic-mount-antenna-3m-sma.html  
 
 # Box
 
